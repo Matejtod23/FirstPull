@@ -4,6 +4,6 @@ import java.io.InputStreamReader;
 
 public class Test {
     public static void main(String[] args) throws IOException {
-        System.out.println("first change in our program");
+        System.out.println("second change in our program");
     }
 }
